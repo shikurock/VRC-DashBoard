@@ -1,0 +1,45 @@
+{
+  "auth": {
+    "provider": "VRChat",
+    "linkedUserId": "",
+    "linkedUsername": "",
+    "linkedDisplayName": "",
+    "lastLinkedAt": ""
+  },
+  "profile": {
+    "displayName": "Guest User",
+    "bio": "API server ready.",
+    "status": "online",
+    "currentAvatar": "Avatar 1"
+  },
+  "profilesByUser": {
+    "vrchat_b6e5263167ccfc28": {
+      "displayName": "API Test User",
+      "bio": "Mock profile",
+      "status": "online",
+      "currentAvatar": "Mock Avatar"
+    }
+  },
+  "favoriteAvatarIds": [],
+  "favoriteAvatarIdsByUser": {
+    "vrchat_043a718774c572bd": [
+      "avatar-4-avatar-4",
+      "avatar-1-avatar-1",
+      "avatar-2-avatar-2",
+      "avatar-8-avatar-8"
+    ]
+  },
+  "contacts": [
+    {
+      "ticketId": "VRC-20260622104331",
+      "receivedAt": "2026-06-22T01:43:31.310298+00:00",
+      "title": "API test",
+      "category": "test",
+      "priority": "normal",
+      "name": "QA",
+      "replyMethod": "site",
+      "message": "hello",
+      "statusMessage": "Python APIで受け付けました。"
+    }
+  ]
+}
